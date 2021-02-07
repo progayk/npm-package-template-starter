@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-template",
+  "name": "npm-package-template-starter"
   "version": "1.0.0",
   "description": "npm package template starter ts, jest, rollup",
   "main": "dist/index.js",
